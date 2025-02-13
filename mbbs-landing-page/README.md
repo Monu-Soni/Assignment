@@ -41,7 +41,7 @@ React Router (Client-Side Routing)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/assignment.git
+git clone https://github.com/Monu-Soni/Assignment.git
 cd your-repo-name
 
 2️⃣ Install Dependencies
